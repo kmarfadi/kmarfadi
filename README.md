@@ -84,12 +84,6 @@ const khalifah = {
 - **Features**: User authentication, payment integration, admin dashboard
 - **Highlights**: Responsive design, RESTful API, secure transactions
 
-### 🌟 [Real-Time Chat Application](https://github.com/kmarfadi/chat-app)
-*WebSocket-powered messaging platform*
-- **Tech Stack**: React, Node.js, Express
-- **Features**: Real-time messaging, user presence, message history
-- **Highlights**: Low latency, scalable architecture
-
 ---
 
 ## 💼 Professional Journey
