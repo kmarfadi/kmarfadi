@@ -62,8 +62,6 @@ const khalifah = {
 
 <div align="center">
 
-![Khalifah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmarfadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarfadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmarfadi&theme=tokyonight&hide_border=true&background=0D1117)
