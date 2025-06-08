@@ -72,19 +72,12 @@ const khalifah = {
 
 ## 🚀 Featured Projects
 
-### 🌟 [Restaurant Menu Management System](https://github.com/kmarfadi/restaurant-menu-management-system)
+### 🌟 [Restaurant Menu Management System](https://github.com/kmarfadi/restaurantMenu-client)
 *Comprehensive application for managing restaurant menus*
 - **Tech Stack**: React, Node.js, PostgreSQL
 - **Key Features**: JWT-based authentication, role-based access control, integrated WhatsApp API for order processing
 - **Highlights**: Optimized database performance, mobile-first design using Tachyons CSS
 
-### 🌟 [Full-Stack E-Commerce Platform](https://github.com/kmarfadi/ecommerce-app)
-*Modern e-commerce solution with React & Node.js*
-- **Tech Stack**: React, TypeScript, Node.js, Express, MongoDB
-- **Features**: User authentication, payment integration, admin dashboard
-- **Highlights**: Responsive design, RESTful API, secure transactions
-
----
 
 ## 💼 Professional Journey
 
