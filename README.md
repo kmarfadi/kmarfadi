@@ -72,7 +72,7 @@ const khalifah = {
 
 ## 🚀 Featured Projects
 
-### 🌟 [Restaurant Menu Management System](https://github.com/kmarfadi/restaurantMenu-client)
+### 🌟 [Restaurant Menu Management System](https://github.com/kmarfadi/RestaurauntMenu-client)
 *Comprehensive application for managing restaurant menus*
 - **Tech Stack**: React, Node.js, PostgreSQL
 - **Key Features**: JWT-based authentication, role-based access control, integrated WhatsApp API for order processing
