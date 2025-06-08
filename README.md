@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Computer Engineering graduate** with **1+ years of professional full-stack development experience**, currently pursuing an **MBA** to blend technical expertise with business acumen. Based in **Istanbul, Turkey**, I'm actively seeking opportunities to contribute to innovative tech teams.
+I'm a passionate **Computer Engineering graduate** with **years of professional full-stack development experience**, currently pursuing an **MBA** to blend technical expertise with business acumen. Based in **Istanbul, Turkey**, I'm actively seeking opportunities to contribute to innovative tech teams.
 
 ```javascript
 const khalifah = {
