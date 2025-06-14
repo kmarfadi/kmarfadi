@@ -64,8 +64,6 @@ const khalifah = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarfadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmarfadi&theme=tokyonight&hide_border=true&background=0D1117)
-
 </div>
 
 ---
