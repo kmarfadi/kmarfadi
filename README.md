@@ -84,13 +84,8 @@ const khalifah = {
 *Interactive banking dashboard with visualization components*
 - **Tech Stack**: React, TypeScript, NestJS, PostgreSQL, Redis
 - **Key Features**: Real-time transaction updates, role-based access control, financial data visualization
-- **Highlights**: Material-UI components, Chart.js visualizations, WebSockets for real-time updates
+- **Highlights**: ShadCN Components, WebSockets for real-time updates
 
-### 🔄 [CRM Platform Backend](https://github.com/kmarfadi/CRM-Backend)
-*Scalable backend solution for customer relationship management*
-- **Tech Stack**: NestJS, MongoDB, Redis, Docker
-- **Key Features**: Task queuing system, asynchronous processing, data transformation pipelines
-- **Highlights**: Microservices architecture, API gateway implementation, Redis for caching and task management
 
 ## 💼 Professional Journey
 
