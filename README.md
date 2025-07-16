@@ -39,16 +39,20 @@ const khalifah = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### **Databases**
+### **Databases & Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C79?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +80,17 @@ const khalifah = {
 - **Key Features**: JWT-based authentication, role-based access control, integrated WhatsApp API for order processing
 - **Highlights**: Optimized database performance, mobile-first design using Tachyons CSS
 
+### 💼 [FullStackBankDashboard](https://github.com/kmarfadi/FullStackBankDashboard)
+*Interactive banking dashboard with visualization components*
+- **Tech Stack**: React, TypeScript, NestJS, PostgreSQL, Redis
+- **Key Features**: Real-time transaction updates, role-based access control, financial data visualization
+- **Highlights**: Material-UI components, Chart.js visualizations, WebSockets for real-time updates
+
+### 🔄 [CRM Platform Backend](https://github.com/kmarfadi/CRM-Backend)
+*Scalable backend solution for customer relationship management*
+- **Tech Stack**: NestJS, MongoDB, Redis, Docker
+- **Key Features**: Task queuing system, asynchronous processing, data transformation pipelines
+- **Highlights**: Microservices architecture, API gateway implementation, Redis for caching and task management
 
 ## 💼 Professional Journey
 
@@ -96,6 +111,7 @@ const khalifah = {
 - **🎯 Problem Solver**: Systematic approach to debugging and performance optimization
 - **📈 Business Minded**: MBA studies complement my technical skills
 - **🤝 Team Player**: Collaborative approach to software development
+- **🔄 System Architecture**: Experience with microservices, caching strategies, and queue management
 
 ---
 
