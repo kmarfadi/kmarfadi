@@ -91,8 +91,8 @@ const khalifah = {
 
 ```
 🎓 Computer Engineering Graduate
+🎓 MBA Graduate
 💻 3+ Years Full-Stack Development Experience
-📚 Currently Pursuing MBA
 🌍 Multilingual Professional (EN | AR | TR | FR)
 🔍 Actively Job Seeking 
 ```
