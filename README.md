@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## 🚀 Full-Stack Developer | Software Engineer | Problem Solver
+## 🚀 Full-Stack Developer | Problem Solver
 
 *Building scalable web applications with modern technologies*
 
