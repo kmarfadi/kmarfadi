@@ -23,7 +23,6 @@ I'm a passionate **Computer Engineering graduate** with **years of professional 
 const khalifah = {
   location: "Istanbul, Turkey 🇹🇷",
   languages: ["English", "Arabic", "Turkish", "French"],
-  currentFocus: ["Full-Stack Development", "MBA Studies", "Job Search"],
   lookingFor: "Software Engineering roles",
   funFact: "I debug code in 4 languages! 🌍"
 };
