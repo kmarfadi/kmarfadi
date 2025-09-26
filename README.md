@@ -1,5 +1,5 @@
 
-# Hi there, I'm Khalifah Marfadi 👋
+# Hi there, I'm Khalifah Marfadi A.K.A Marf 👋
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 I'm a passionate **Computer Engineering graduate** with **years of professional full-stack development experience**, currently pursuing an **MBA** to blend technical expertise with business acumen. Based in **Istanbul, Turkey**, I'm actively seeking opportunities to contribute to innovative tech teams.
 
 ```javascript
-const khalifah = {
+const Marf = {
   location: "Istanbul, Turkey 🇹🇷",
   languages: ["English", "Arabic", "Turkish", "French"],
   lookingFor: "Software Engineering roles",
